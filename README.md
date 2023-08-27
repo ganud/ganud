@@ -2,7 +2,7 @@ Doing some tech as a hobbyist. Still inexperienced but I've given these technolo
 - SQLITE
 - Python
 - HTML/CSS/JavaScript
-- FLask
+- Flask
 
 Current focus 🔰:
 - The Odin Project -> Fullstack js path
