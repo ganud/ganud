@@ -1,10 +1,17 @@
-### Hi there 👋
-Doing some tech as a hobbyist. Still inexperienced but I've given these technologies a try:
+Doing some tech as a hobbyist. Still inexperienced but I've given these technologies a try ✔️:
 - SQLITE
 - Python
 - HTML/CSS/JavaScript
 - FLask
 
+Current focus 🔰:
+- The Odin Project -> Fullstack js path
+- C#
+- General Programming Challenges (Leetcode)
+
+Goals  🧘‍♂️:
+- Full-stack web development proficiency
+- Creating useful software applications
 <!--
 **ganud/ganud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
