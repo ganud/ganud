@@ -1,4 +1,8 @@
-<h3>I am ganud</h3>
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ganud&theme=github" alt="Stats">
+</div>
+<!--   <img height="20px" src="https://komarev.com/ghpvc/?username=ganud&label=Visitors&color=blueviolet" alt="Stats"/>
+<h3>I am ganud</h3> -->
 Someone who wants to expand their programming horizons.
 
 <h3>I use these + whatever learn whatever else is needed i guess</h3>
