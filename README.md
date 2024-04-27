@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ganud&theme=github" alt="Stats">
 </div>
-<h3 align="center">Welcome to my profile</h3>
+<h3 align="center">Welcome to my profile 👋</h3>
 <div align="center"><img align="center" height="20px" src="https://komarev.com/ghpvc/?username=ganud&label=Visitors&color=blueviolet" alt="Stats"/></div>
 
 <h3>I am</h3>
